@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css?family=Livvic&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Hepta+Slab&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Raleway&display=swap");
+body {
+  background-color: #151515;
+  padding-left: 22%;
+  padding-right: 22%;
+}
+h1 {
+  margin-bottom: -30px;
+  text-align: center;
+  color: #00e676;
+  font-family: "Livvic", sans-serif;
+  font-size: 350%;
+  text-decoration-line: underline;
+  text-decoration-style: dotted;
+}
+p {
+  font-family: "Hepta Slab", serif;
+  font-size: 120%;
+  color: #00e676;
+}
+textarea {
+  height: 4em;
+  width: 100%;
+  background-color: #e0e0e0;
+  border: 0px;
+  font-family: monospace;
+  font-size: 80%;
+  padding: 20px;
+}
+button {
+  background-color: #00e676;
+  color: #151515;
+  font-family: "Raleway", sans-serif;
+  font-weight: bold;
+  font-size: 90%;
+  padding: 5px;
+  border: 0px;
+  width: auto;
+}
+div {
+  border: 0px;
+}
+#box {
+  height: 6em;
+  width: 100%;
+  padding: 20px;
+  background-color: #151515;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #00e676;
+  display: none;
+}
+#controls {
+  padding-bottom: 10px;
+  display: none;
+}
